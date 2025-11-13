@@ -13,10 +13,10 @@ Built with **Python** and **Streamlit**, it can respond to questions about admis
 
 **Features**
 
- # Understands common student queries  
- # Provides instant responses  
- # Simple and interactive UI  
- # Extendable with more questions or ML models  
+ 1. Understands common student queries  
+ 2. Provides instant responses  
+ 3. Simple and interactive UI  
+ 4. Extendable with more questions or ML models  
 
 
 
