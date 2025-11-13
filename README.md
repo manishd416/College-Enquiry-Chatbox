@@ -46,6 +46,7 @@ As this is my first project, I have used only a small database of my college. Yo
 Manish D
 B.Tech - Computer Science (AI & ML)
 GitHub Profile: https://github.com/manishd416
+
 LinkedIn Profile: www.linkedin.com/in/manish-dhandapani-2a1b80358
 
    
